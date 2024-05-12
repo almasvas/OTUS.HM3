@@ -1,4 +1,4 @@
-﻿namespace OTUS.HM3
+﻿namespace OTUS.HM3.Models
 {
     public class GameSettings
     {

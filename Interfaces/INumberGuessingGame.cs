@@ -1,4 +1,4 @@
-﻿namespace OTUS.HM3
+﻿namespace OTUS.HM3.Interfaces
 {
     public interface INumberGuessingGame
     {
